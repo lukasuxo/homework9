@@ -49,6 +49,7 @@ font-size: 18px;
 font-style: normal;
 font-weight: 300;
 line-height: 166.5%;
+padding-left: 10px;
 }
 .sax{
     display: flex;
@@ -93,8 +94,9 @@ line-height: 166.5%;
 }
 .tvall{
     position: absolute;
-    top: -40px;
+    top: -50px;
     left: 398px;
+
 }
 .charch{
     background: var(--Gradient-1, linear-gradient(180deg, rgb(255, 255, 255) 0%, #ffffff 0.01%, #ffffff 100%));
@@ -117,7 +119,6 @@ margin-left: 10px;
 .svg23{
     width: 32px;
     height: 32px;
-
 }
 .bol{
     display: flex;
