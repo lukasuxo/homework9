@@ -163,23 +163,13 @@ line-height: 166.5%;
 text-decoration-line: underline;
 margin-top: -20px;
 }
-
-
-
-
-
-
-
-
 @media screen and (max-width: 1100px){
     .container{
         display: flex;
         flex-direction: column;
-        align-content: center;
-        justify-content: center;
     }
     body{
-        height: 100vh;
+        height: 210vh;
     }
 }
 
